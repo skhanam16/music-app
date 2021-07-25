@@ -13,7 +13,7 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
-    "watch:sass": "node-sass sass/Main.scss css/Style.css -w",
+    "watch:sass": "node-sass sass/main.scss css/style.css -w",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
