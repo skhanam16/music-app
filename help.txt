@@ -1,0 +1,15 @@
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+### this one is basically a component import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import different kinds of logos by of import { faPlay } from '@fortawesome/free-solid-svg-icons';
+This one is basically actual icons import { faPlay } from '@fortawesome/free-solid-svg-icons';
+
+need to install uuid npm
+go to https://www.npmjs.com/package/uuid
+on root/
+npm install uuid
+
+Now go to Chillhop.com
+https://chillhop.com/releases/chillhop-music-sessions/
+
+
+use google chrome extension color zilla to pick colors
