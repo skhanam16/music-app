@@ -1,0 +1,40 @@
+.player{
+    min-height: 20vh;
+    background: rgb(170, 157, 148);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.time-control{
+    width: 50%;
+    background: rgb(198, 201, 196);
+    display: flex;
+    // align-items: center;
+    // justify-content: flex-end;
+
+    input{
+        width: 100%;
+        background: rgb(190, 97, 10);
+        padding: 1rem 2rem;
+    }
+    p{
+        padding: 1rem;
+    }
+}
+
+.play-control{
+    width: 30%;
+    background: chocolate;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+
+    svg{
+        cursor: pointer;
+        
+    }
+
+}
