@@ -75,6 +75,7 @@ function chillHop() {
       // uuidv4() this will generate random number
       active: false,
       // active means is the song is playing now
+      // reason of creating this file so that our app.js is not flooded with bunch of data
     },
   ];
 }
