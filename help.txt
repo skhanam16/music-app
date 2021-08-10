@@ -13,3 +13,8 @@ https://chillhop.com/releases/chillhop-music-sessions/
 
 
 use google chrome extension color zilla to pick colors
+
+
+1. get the values from the input field into the chilHop array and then manipulate the values 
+from chilHop different component of your application
+
